@@ -1,3 +1,0 @@
-Data augmentation: carpeta con el script que se utilizó para crear el aumento del data set.
-Se utilizaron 6 diferentes transformaciones, 2 del tipo de cambio de color y 4 de transformación espacial: aumento de brillo, cambio de canal, desplazamiento, ESPEJO (FLIP ORIZONTAL), rotación y zoom. 
-Los parámetros están especificados en cada una de las imagenes
